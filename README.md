@@ -1,2 +1,1 @@
-my firt readme
-edittt
+My first readme
